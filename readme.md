@@ -12,6 +12,7 @@ RecylerView, CardView with Navigation Drawer
 1. RecyclerView
 2. CardView
 3. Navigation Drawer
+4. Fragments
 
 ## Links
 Kotlin  (https://kotlinlang.org/)
